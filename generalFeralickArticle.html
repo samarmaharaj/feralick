@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+
+{border:2px solid white}
+
+ #navbar {
+ background-color: #333;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ display: block;
+ transition: top 0.3s;
+ }
+ 
+ /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+ .sticky {
+ position: fixed;
+ top: 0;
+ width: 100%;
+ }
+ 
+ /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+ .sticky {
+ padding: 1px;
+ }
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large" id="navbar" >
+      <a href="#" class="w3-btn w3-left">Feralick <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhI14xT_JtZ9Mls40xnNe4nWMQHnyLpEXWyKqTxnX2Cz8Nn_Qi4qyH0l6HY7Ij24j_PPRI7jlkFnjkXXQAPLm-xmBwNIxIEtZtjI9DMfCaLVwqxYdWE9-zpAdfnVDC8yhwdj2lOrB2CiiCLKjub8S-1G-TcnuVDN7Oz2IBI2WNPTxmNhBgfmGszLshCjA=s1000" class="w3-image" style="width:7%" ></a></h2>
+    <!--a class="w3-bar-item w3-button w3-right w3-hide-large w3-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+
+    <!--a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Values</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">News</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Clients</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Partners</a-->
+  </div>
+</div>
+
+<!-- Sidebar -->
+<nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-black w3-animate-left" id="mySidebar" style="top : 0px; width : 20%" >
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
+    <i class="fa fa-remove"></i>
+  </a>
+  <h4 class="w3-bar-item"><b>Menu</b></h4>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
+<div class="w3-main w3-pale-red" style="margin-left:20%" id="main" >
+
+  <div class="w3-row w3-padding-64">
+  <div class="w3-red w3-center" id="header" ><h1>Unfair System Of Rewards</h1></div>
+    <div class="w3-twothird w3-container" >
+      <h2 class="w3-text-red">Filmer</h2>
+      <p class="w3-leftbar w3-border-red w3-padding w3-yellow" >In truth the mastery of flying was the work of thousands of men—this man a suggestion and that an experiment, until at last only one vigorous intellectual effort was needed to finish the work. But the inexorable injustice of the popular mind has decided that of all these thousands, one man, and that a man who never flew, should be chosen as the discoverer, just as it has chosen to honour Watt as the discoverer of steam and Stephenson of the steam-engine.
+      <br><i class="w3-" >- H.G. Wells ( Filmer, twelve stories and a dream )</i>
+      </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="w3-center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhIpm8iamxR01RK5t1Ek2GYwMPIxZBBFaJtXAt0BEGzhEqpLyvgR7jZVpDvvpyCiB8h6f_LlPISONLfeffbpmLEmh5jISDPPxtPl10jvQU0QlfFuJdl0bHyI4qbhIEy4yU7Ac01XYdska5rceW6EsApAUNtgt1qcX5vgZi0sYMF6dd1kHeMODCt69K2CA=s320" class="w3-image" ></p>
+      <p class="  w3-center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEi8CSC64cCFoaN263oS5-U9_ICMOQHsZWagBBPeWFZ4J9TLKugxKIq8F2kpG4i7FmKaxmmQVENx-HnpkvbDpb_ezO57j9o1eQhPSd7d_qvDIhLOsZV3GATy4aRV1mOTbFXitgExVS9KSwV-3yhM6wPfgtwKkbkejTr9UlyqPFQKpctOQQm7vKwDDYEimQ=s320" class="w3-image" ></p>
+    </div>
+  </div>
+
+  <div class="w3-row">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">Heading</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum
+        dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEiYwey8Qn--1qmy6w6e5uVgVa4EZUKIyINS2QZXejiLBcc6oQCxFgi_fovEZmqd4MjgFrADZso2FyXG2bdeTbodDGPL8zvyyKPGxqjFyiM2lhk8i5eOE15GbH7iXsl_Lh2dHX8kZ9lEyenkqsmqIpKlv_H49K3BywU7SlGqDQC66beBFYCXrVFwlNuq3w=s320" class="w3-image" ></p>
+      <p class="  w3-center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhE00dzHC9C2JfGB5Vr5UKK5t_2fx0EgRZeqA0IDLrEer_y1ngTHBKffbBV00dFufGFSoVZdAvKQXSGrgFc6hA_zro88Y4ZKPD36tdf1epViuP8lhonzKAu74queNBICGcW9TFVWJfzlCLBRsG4ZG2_-lzGVyv4gC6XykOJiWwme1ooKW9GYO4l260H6w=s320" class="w3-image" ></p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-64">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">Heading</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum
+        dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjIB9KkQkBhLDBLJiUigaVMgr_pNrC_wkdG2dy1wDpM3JYmKiTW67RITceIPdj9PAOcxKYsZVTA6PRBKbQThe5YEu6_prFh02c8JKMtUyhu-SufUbe4U74da71aJi2ni9ThqHnaCVnm3cy7CWk99ARku30E7O3-aJuJqN3zYzCLnXRoyQw2-sFpTM2TNg=s320" class="w3-image" ></p>
+      <p class="  w3-center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjAqF5bn8jDV-eolmBImsAYkiMxLadF48_PvTwMJbsxZIevkfszcYXLKv9cChHAsycoTs-6zFOcyj9UPWdfa-YGbF3hHpUBx8pQD1gk0CaWLALRgr8VuiHj5LrbQCFy6Dsif-VJEBNReaOrnRCIts4lKKigUZC8MSYHCXynO9uddqBv_Zzpl9ReWp15sA=s320" class="w3-image" ></p>
+    </div>
+  </div>
+
+  <!-- Pagination >
+  <div class="w3-center w3-padding-32">
+    <div class="w3-bar">
+      <a class="w3-button w3-black" href="#">1</a>
+      <a class="w3-button w3-hover-black" href="#">2</a>
+      <a class="w3-button w3-hover-black" href="#">3</a>
+      <a class="w3-button w3-hover-black" href="#">4</a>
+      <a class="w3-button w3-hover-black" href="#">5</a>
+      <a class="w3-button w3-hover-black" href="#">»</a>
+    </div>
+  </div-->
+
+  <footer id="myFooter">
+    <div class="w3-container w3-red w3-padding-32">
+      <h4>Footer</h4>
+    </div>
+
+    <div class="w3-container w3-theme-l1">
+      <p>All right reserved by <a href="https://feralick.me/" target="_blank">Feralick</a></p>
+    </div>
+  </footer>
+
+<!-- END MAIN -->
+</div>
+
+<script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+</script>
+
+<script>
+var prevScrollpos = window.pageYOffset;
+
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var header = document.getElementById("header");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    header.classList.add("sticky")
+    document.getElementById("main").style.marginTop = "100px";
+  } else {
+    header.classList.remove("sticky");
+    document.getElementById("main").style.marginTop = "0px";
+  }
+  
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+  document.getElementById("navbar").style.top = "0";
+  document.getElementById("header").style.top += "50";
+  } else {
+  document.getElementById("navbar").style.top = "-50px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+</script>
+
+</body>
+</html>
