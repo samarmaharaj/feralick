@@ -2,9 +2,6 @@
 <html lang="en" >
     <head>
     <title>FERALICK</title>
-    <link rel = "icon" href = 
-    "https://blogger.googleusercontent.com/img/a/AVvXsEg0MCJVm9AFU9UHQgdrDp8sAer3BJCn0wVo0ALYMqOAeQ63nzUkDIlxxxggHuKuP-1gfkG7T294epQ-fAeRTm2EBr5k7ynvlV-7Qqu4PW08z8C_p5o4IVl1JlBVyadcK_zvZXwSczlcIhmEy4JZAfyX2gpLGa8UnartClrMUOhn54HHcZ6oyJkB7jo09g=s320" 
-    type = "image/x-icon">
     <meta charset="utf-8" />
     <meta name="description" content="We belive that genius don't sit idle. They do great things. Insanely great.
     Give them liver long enough and a place to put it, they will move the world.    
@@ -82,6 +79,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
  .sticky {
  padding: 1px;
  }
+ 
+ @media screen and (min-width: 1080px) {
+ #header {
+ width : 80vw;
+ }
+ }
 </style>
 <body>
 
@@ -119,7 +122,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 <div class="w3-main w3-pale-red" style="margin-left:20%" id="main" >
 
   <div class="w3-row w3-padding-64">
-  <div class="w3-red w3-center" id="header" ><h1 style=" font-size : 5vw">Unfair System Of Rewards</h1></div>
+  <div class="w3-red w3-center" id="header"><h1 style="font-size : 5vw" >Unfair System Of Rewards</h1></div>
     <div class="w3-twothird w3-container" >
       <h2 class="w3-text-red">Filmer</h2>
       <p class="w3-leftbar w3-border-red w3-padding w3-yellow" >In truth the mastery of flying was the work of thousands of men—this man a suggestion and that an experiment, until at last only one vigorous intellectual effort was needed to finish the work. But the inexorable injustice of the popular mind has decided that of all these thousands, one man, and that a man who never flew, should be chosen as the discoverer, just as it has chosen to honour Watt as the discoverer of steam and Stephenson of the steam-engine.
@@ -231,7 +234,7 @@ function myFunction() {
   var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
   document.getElementById("navbar").style.top = "0";
-  document.getElementById("header").style.top += "50";
+  document.getElementById("header").style.top += "";
   } else {
   document.getElementById("navbar").style.top = "-50px";
   }
