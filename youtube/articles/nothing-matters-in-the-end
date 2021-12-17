@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+    <title>FERALICK</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="Really nothing matters in the end. Where we are? In a house, in a country. Basically we are on a planet, Earth. A very lucky planet. Everything that matters to you is here. In total, 110 billions people have been born on this Earth, since the dawn of the human species. It's a lot, isn't it? Yes. All on this planet only." />
+    <meta name="keywords" content="The purpose of life, the meaning of life, elon tell us what is purpose of life, Feralick" />
+    <meta name="author" content="Feralick YouTube channel">
+    <meta name="content-language" content="english">
+    <meta name="audience" content="all">
+    <meta name="generator" content="anwriter from Google play store">
+    <meta name="revisit-after" content="14 days" >
+    <meta name="distribution" content="new delhi, ncr, north india, noida, mamura, sector 66" />
+    <meta name="publisher" content="samarmaharaj.github.io" >
+    <meta name="copyright" content="copyright 2021" />
+    <meta name="designer" content="Samar Maharaj" />
+    <meta name="abstract" content="We belive that genius don't sit idle. They do great things. Insanely great.
+    Give them liver long enough and a place to put it, they will move the world.
+    Our endeavor exceeds our time. We dare to touch the impossibility. We dare to create a new era.
+    
+    Join us. It's never too late.
+    Feralick.me" />
+    <meta http-equiv="expire" content="none" >
+    <meta http-equiv="content-script-type" content="text/javascript">
+    <meta http-equiv="pragma" content="cache" />
+    
+<!--meta tags for social open graphs-->
+
+    <meta property="og:type" content="article" >
+    <meta property="og:url" content="https://feralick.me" >
+    <meta property="og:title" content="We belive that genius don't sit idle. They do great things. Insanely great.
+    Give them liver long enough and a place to put it, they will move the world.  
+    Our endeavor exceeds our time. We dare to touch the impossibility. We dare to create a new era." >
+    <meta property="og:description" content="hello! cosmos" >
+    <meta property="og:image" content="https://source.unsplash.com/random" >
+    <meta property="og:admins" content="@feralick.me" >
+    <meta property="og:site_name" content="www.feralick.me" >
+    </head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+
+{border:2px solid white}
+
+ #navbar {
+ background-color: #333;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ display: block;
+ transition: top 0.3s;
+ }
+ 
+ /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+ .sticky {
+ position: fixed;
+ top: 0;
+ width: 100%;
+ }
+ 
+ /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+ .sticky {
+ padding: 1px;
+ }
+ 
+ @media screen and (min-width: 1080px) {
+ #header {
+ width : 100vw;
+ }
+ }
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large" id="navbar" >
+      <a href="#" class="w3-btn w3-left">Feralick <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhI14xT_JtZ9Mls40xnNe4nWMQHnyLpEXWyKqTxnX2Cz8Nn_Qi4qyH0l6HY7Ij24j_PPRI7jlkFnjkXXQAPLm-xmBwNIxIEtZtjI9DMfCaLVwqxYdWE9-zpAdfnVDC8yhwdj2lOrB2CiiCLKjub8S-1G-TcnuVDN7Oz2IBI2WNPTxmNhBgfmGszLshCjA=s1000" class="w3-image" style="width:7%" ></a></h2>
+    <!--a class="w3-bar-item w3-button w3-right w3-hide-large w3-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+
+    <!--a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Values</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">News</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Clients</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Partners</a-->
+  </div>
+</div>
+
+<!-- Sidebar -->
+<nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-black w3-animate-left" id="mySidebar" style="top : 0px; width : 0%" >
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
+    <i class="fa fa-remove"></i>
+  </a>
+  <h4 class="w3-bar-item"><b>Menu</b></h4>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-yellow" href="#">Link</a>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
+<div class="w3-main w3-pale-red" style="margin-left:0%" id="main" >
+
+  <div class="w3-row w3-padding-64">
+  <div class="w3-red w3-center" id="header"><h1 style="font-size : 5vw" >Nothing matters in the end</h1></div>
+    <div class="w3-twothird w3-container" >
+      <h2 class="w3-text-red"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj9GnW87Kk6ANtdpLO-A19vxDJ8pX85Ux9wW6ZelIjmCpUF46uHrSoDU_zOufu7bCtigmKwVYfYNR6bPtAjC2UI90iRCYgf2QLo2Gj_vxac6kx4gDZmRvw2up_0SiE14qy4b1nG8kZFrt510_pYZBM7PRItoJirv2T2ZxQAtvZPwZVTlYaHwBrd15gbWQ=s320" style="width:100%"  /></h2>
+      <p class="w3-leftbar w3-border-red w3-padding w3-yellow" >In the End, nothing matters that mattered so much in the beginning.
+      The only thing that matter is - 'it ended'.
+      </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+
+  <div class="w3-row">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">Is Anything Matters?</h2>
+      <p>Really nothing matters in the end. Where we are? In a house, in a country. Basically we are on a planet, Earth. A very lucky planet. Everything that matters to you is here. In total, 110 billions people have been born on this Earth, since the dawn of the human species. It's a lot, isn't it? Yes. All on this planet only.<br> 
+      
+      Our planet is very lucky. It is at the exact position from the sun, in exact system, a perfect system - a system like of which there are about 200 billions in our Milky Way galaxy. Our Milky Way galaxy is too much vast that If we imagine a hypothetical journey from its one edge to its diametrically opposite edge; it would takek us about 4228 generations where one generation composed of 25 years. Insane! Isn't?<br>
+      
+      We all are on planet Earth. This is so much bigger than us. Mathematically we can say that it is about 6500 km in radius and having 13000 km in diameter. OK fine. Now imagine, what a 13000 km stands for you. If I stand on the tallest building, the man has ever built - Burj Khalifa, I will be able to see to the extent of 100 km only. But I couldn't able to see different countries in this range neither different cities. Such is the dimension of this giant rock!<br>
+      
+       </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img  class="w3-image" ></p>
+      <p class="  w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-64">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">The Enlightenment</h2>
+      <p>Really nothing matters in the end. It doesn't matter how successful you're, it doesn't matter how many times you've failed in your life, how many times you lose because there had been more successful people than you, lost in the pages of history. More loser than you, more winner than you, all lost in the history. We exist, and realizing this is suffice. We will do big things, means, it doesn't matter. Definitely, nothing matters in the end. How many times we did wrong, literally there are more sinner, far greater and bigger than you, are lost in the history. How many times we did good things, wrote dogmas, bend before religions, how many times we felt fear, shame - nothing matters. How many times we conquered, win over other, how much we earned ; these things doesn't matter, because more money have been earned in the history and they all are entirely lost in the pages of history.<br> 
+      
+      And here we are thinking that we will do something? Basically doesn't matter. We exists. Before us 110 billions people have been born. If our civilization extent to a longer duration, if we do space travel and able to sustain it, then definitely these number can be doubled.<br>
+      
+      We often get wrong on the issue that something will happen if we do or also if we don't. For example, if we do something then world will change or if we don't do anything in our life then no one is going to remember us. We all trying to be alive in the mind of those people who will not be remembered in other minds. We fear that if we just live our life and do nothing then not even our name would be written in the pages of history. We will be forgotten. And forgotten from the mind of coming forgotten generations.<br>
+      
+        </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img  class="w3-image" ></p>
+      <p class="  w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+  
+  <div class="w3-row">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">Your Time Span!</h2>
+      <p>See nothing matters to this universe if we do something or not. This cosmos is infinity vast. We don't even know where we are now? At which corner? What will happen the very next moment?<br>
+      Our time span is infinitely small as compared to this cosmos ( 100 to 14,000,000,000 years ). Even if we compare our time span of life to this Earth, our complete history of mankind squeeze within second.<br>
+      If Tomorrow, this Earth vanished from cosmos - it will cost nothing to this universe. Left Earth, even if this solar system would be vanished this will not matter anything to the Milky Way galaxy, as there are 200 billions other starts out there. And remember there are more than 200 billions galaxies in our observable universe.<br>
+      
+      And after all you are thinking if we do something then other would feel sad or happy?! What you do doesn't matter even to this cosmos and then how silly it is for us to think about opinions of other for doing something! They even don't know where they are. What's their position in this cosmos.<br>
+      
+       </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img  class="w3-image" ></p>
+      <p class="  w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+  
+  <div class="w3-row">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">The Ultimate Experience</h2>
+      <p>Whenever we look up at the infinite sky, see innumerable stars and imagining that we really are on the giant rock ball ; our lovely planet, our lovely Earth. Then,  if there is, even in small corner of mind, the feelings of proudness, greediness, jealousness for other, angry, indifference or hate, everything falls straight away. I've achieved something, i need something, how can they be ahead of me? Why they do this only to me? I don't like anyone! These sound stupid. Not a single logic come out of them. We desire distance on our own Earth! From our own species! We have different nation created boundaries in the name of nationalism!<br>
+      
+      The roots of these feelings just erode away - if I imagine where I stand in this cosmos. I am on planet Earth. That's it. That's why I say - nothings matter in the end. It might matter to someone else who is something,  but literally we are nothing. We are soo much insignificant. <br>
+      So whenever I think in this way, although my pride, ego, jealousness, whatever the  so called " bad feelings " had been described in the religions made by human, told not to do something, not to feel disappointed from others, or feel envy, or be blind from money - whatever; which are the statements told us to follow, can be very well realized if I think about my position and focus on my consciousness that, really nothing matters in the end.<br>
+      
+      So every great people who had been in this world, greater than great, greatest among great, more sinners than other, or literally Gods, or the worst demons, every people who felt envy, donated everything, did tyranny, hug other, love other or hate other, every person who won the battle of blood or be slashed into blood, everyone, who ever was, whole history of our human species oscillates for a second on this small Earth.<br>
+      
+       </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img  class="w3-image" ></p>
+      <p class="  w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+  
+  <div class="w3-row">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">What Is The Purpose Of Life?</h2>
+      <p>Then we come on our purpose, and ask - what is the purpose of life?<br>
+      Enjoy life? Do something great in life? Help each other? I already told you these things doesn't matter. It doesn't matter how you lived your life; the only thing that matter is to experience that I'm living life, at this moment, at this time, at this place. Now!<br>
+      
+      How wonderful it is! Means, I know that it doesn't matter what I do with my life; then literally I can do anything and it still doesn't matter.<br>
+      
+      Many curious people ask about purpose. Whatever they do - what is the purpose? Why not to ask? Everyone one of us are doing things on purpose. Every humans who lived their life, lived on purpose. The purpose of a general parents is to educate their children and provide them with a desired job. The purpose of children is to be big, to do big, show off. The purpose of politicians is to win offices. The purpose of players is also to win the game. The purpose of young man is to enjoy their energetic moments and do the things they always dreamed to do. Literally everyone lives their life on purpose. In fact, I think there are only a few humans who lived without purpose, and it's only their lives that worth discussing.<br>
+      
+      Why to ask me? Why not to ask this beautiful tree; the purpose of its flowing with the air. Why not to ask the moon; the purpose of its glittering. Why not to ask this universe; the purpose of its existence. What I am? Absolutely nothing!<br>
+      
+       </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img  class="w3-image" ></p>
+      <p class="  w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+  
+  <div class="w3-row">
+    <div class="w3-twothird w3-container">
+      <h2 class="w3-text-red">So What?</h2>
+      <p>One day we all be dead. Why? We don't know. So what you did, what impacts you created - good or bad, everything will be disassociated from your name. This can happen that your life might be hard, or even harder, nervous, it was your first job interview, the big presentation, the important test, the big responsibility that you failed to fulfill, filled with anxiety and you want to tell someone something; but don't have that courage. Everything gone wrong. Life took wrong direction. Let it be. Nothing matters in the end. Everything collapse in the End.<br>
+      
+       </p>
+    </div>
+    <div class="w3-third w3-container">
+      <p class="  w3-center"><img  class="w3-image" ></p>
+      <p class="  w3-center"><img  class="w3-image" ></p>
+    </div>
+  </div>
+  
+
+  <!-- Pagination >
+  <div class="w3-center w3-padding-32">
+    <div class="w3-bar">
+      <a class="w3-button w3-black" href="#">1</a>
+      <a class="w3-button w3-hover-black" href="#">2</a>
+      <a class="w3-button w3-hover-black" href="#">3</a>
+      <a class="w3-button w3-hover-black" href="#">4</a>
+      <a class="w3-button w3-hover-black" href="#">5</a>
+      <a class="w3-button w3-hover-black" href="#">»</a>
+    </div>
+  </div-->
+
+  <footer id="myFooter">
+    <div class="w3-container w3-red w3-padding-32">
+      <h4>Thanks for visiting!</h4>
+    </div>
+
+    <div class="w3-container w3-theme-l1">
+      <p>All right reserved by <a href="https://feralick.me/" target="_blank">Feralick</a></p>
+    </div>
+  </footer>
+
+<!-- END MAIN -->
+</div>
+
+<script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+</script>
+
+<script>
+var prevScrollpos = window.pageYOffset;
+
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var header = document.getElementById("header");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    header.classList.add("sticky")
+    document.getElementById("main").style.marginTop = "100px";
+  } else {
+    header.classList.remove("sticky");
+    document.getElementById("main").style.marginTop = "0px";
+  }
+  
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+  document.getElementById("navbar").style.top = "0";
+  document.getElementById("header").style.top += "";
+  } else {
+  document.getElementById("navbar").style.top = "-50px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+</script>
+
+</body>
+</html>
